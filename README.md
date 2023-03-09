@@ -69,3 +69,5 @@ Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 8 - Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
 
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
+
+![air](https://user-images.githubusercontent.com/48656439/224179636-53153fc1-31f1-4eef-8629-fbbc555f1b7d.png)
