@@ -39,3 +39,6 @@ Hayvanlar:
 7 - Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı olacaktır. Örneğin, atlar için yem verme algoritması farklı olup, kaplanlar için farklı olacaktır.
 
 Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
+
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/48656439/224138124-21014748-aa81-4f51-95c5-8973bdcfc239.png)
+
